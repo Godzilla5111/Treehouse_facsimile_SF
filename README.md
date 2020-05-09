@@ -1,2 +1,2 @@
 # Treehouse_facsimile_SF
-This is a replica website of treehouse.com. Built on purely HTML and CSS!
+This is a replica website of treehouse.com. Built purely on HTML and CSS!
